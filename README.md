@@ -9,7 +9,7 @@
 
 I am a passionate Full-Stack Developer with a strong commitment to continuous learning and self-development. I thrive on building innovative solutions and constantly expanding my technical expertise. My journey in software development is driven by curiosity, dedication, and a genuine love for creating impactful applications that solve real-world problems.
 
-I enjoy collaborating with others and sharing knowledge. Feel free to ask me about **React.js, Spring Boot, PHP, Laravel, Java, Docker, and Cloudflare** or connect with me on [LinkedIn](https://linkedin.com/in/mouad el attar).
+I enjoy collaborating with others and sharing knowledge. Feel free to ask me about **React.js, Spring Boot, PHP, Java, Docker, and Cloudflare** or connect with me on [LinkedIn](https://linkedin.com/in/mouad el attar).
 
 ---
 
@@ -23,7 +23,7 @@ I enjoy collaborating with others and sharing knowledge. Feel free to ask me abo
 - **Spring Boot** - Enterprise Java applications
 - **Java** - Object-oriented programming
 - **PHP** - Server-side scripting
-- **Laravel** - Modern PHP framework for web applications
+
 
 ### DevOps & Infrastructure
 - **Docker** - Containerization and deployment
@@ -39,7 +39,6 @@ I enjoy collaborating with others and sharing knowledge. Feel free to ask me abo
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
@@ -52,7 +51,6 @@ I enjoy collaborating with others and sharing knowledge. Feel free to ask me abo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="50" height="50" style="margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" style="margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="laravel" width="50" height="50" style="margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="50" height="50" style="margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="50" height="50" style="margin: 10px;"/>
   <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="cloudflare" width="50" height="50" style="margin: 10px;"/>
