@@ -1,15 +1,19 @@
-<h1 align="center">Hi 👋, I'm Mouad Elattar</h1>
-<h3 align="center">A passionate Full-Stack Developer from Morocco</h3>
+<div align="center">
+  <h1>Hi 👋, I'm Mouad Elattar</h1>
+  <h3>A passionate Full-Stack Developer from Morocco</h3>
+</div>
 
-<img align="center" alt="coding" width="1000" height="500" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+---
 
-## About Me
+## 👨‍💻 About Me
 
-- 🌱 I'm currently learning **Angular, Spring Boot, Go**
-- 💬 Ask me about **React.js, Spring Boot, PHP, Laravel, Java, Docker, and Cloudflare**
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/mouad el attar)
+I am a passionate Full-Stack Developer with a strong commitment to continuous learning and self-development. I thrive on building innovative solutions and constantly expanding my technical expertise. My journey in software development is driven by curiosity, dedication, and a genuine love for creating impactful applications that solve real-world problems.
 
-## Tech Stack
+I enjoy collaborating with others and sharing knowledge. Feel free to ask me about **React.js, Spring Boot, PHP, Laravel, Java, Docker, and Cloudflare** or connect with me on [LinkedIn](https://linkedin.com/in/mouad el attar).
+
+---
+
+## 🛠️ Tech Stack
 
 ### Frontend
 - **React.js** - Building modern, interactive user interfaces
@@ -25,34 +29,42 @@
 - **Docker** - Containerization and deployment
 - **Cloudflare** - CDN, security, and performance optimization
 
-## Technologies & Tools
+---
 
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-</p>
+## 💻 Technologies & Tools
 
-## GitHub Stats
+<div align="center">
+  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mouad010&show_icons=true&locale=en&layout=compact" alt="mouad010" />
-</p>
+</div>
+
+<div align="center">
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="laravel" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="50" height="50" style="margin: 10px;"/>
+  <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="cloudflare" width="50" height="50" style="margin: 10px;"/>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mouad010&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="mouad010" />
+  
+</div>
