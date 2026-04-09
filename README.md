@@ -58,11 +58,3 @@ I enjoy collaborating with others and sharing knowledge. Feel free to ask me abo
 </div>
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mouad010&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="mouad010" />
-  
-</div>
