@@ -102,92 +102,69 @@ Curious by default. Practical under pressure. Obsessed with software that still 
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28" height="28" /> Featured Build
-
-<div align="center">
-
-### 🏟️ [BotolaHub](https://github.com/MOUAD010/botolahub)
-**Football data platform + editorial CMS**
-
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/MOUAD010/botolahub)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://github.com/MOUAD010/botolahub)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/MOUAD010/botolahub)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/MOUAD010/botolahub)
-[![Auth.js](https://img.shields.io/badge/Auth.js-000000?style=flat-square&logo=auth0&logoColor=white)](https://github.com/MOUAD010/botolahub)
-
-</div>
-
-**The problem**  
-Fans and editors need live Moroccan league data + news in one place — not a spreadsheet hellscape.
-
-**What ships**
-- Multilingual public site (`EN` / `FR` / `AR`) — matches, teams, players, standings  
-- API-Football → PostgreSQL sync (catalog, live polls, squads, standings)  
-- Admin CMS: news, media, ads, analytics, sync control  
-- SEO: sitemap, OG images, JSON-LD, Search Console  
-- Auth-locked APIs + Docker production + live worker
-
-**Why it’s interesting**  
-Product UI + domain schema + external ingestion + secured admin + container ops — one coherent system.
-
-<p align="center">
-  <a href="https://github.com/MOUAD010/botolahub">
-    <img src="https://img.shields.io/badge/Open%20Repository-00E5FF?style=for-the-badge&logo=github&logoColor=0B1220" alt="Open BotolaHub" />
-  </a>
-</p>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="28" height="28" /> How I Engineer
-
-```text
-┌──────────────────┬────────────────────────────────────────────┐
-│ Clarity          │ Readable structure > clever tricks         │
-│ Boundaries       │ UI ≠ domain ≠ sync ≠ auth                  │
-│ Typed edges      │ Zod + schema constraints before trust      │
-│ Secure defaults  │ Hash secrets · guard routes · sanitize HTML│
-│ Operability      │ Docker · env config · observable jobs      │
-│ Longevity        │ Extend without rewrite                     │
-└──────────────────┴────────────────────────────────────────────┘
-```
-
----
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" width="28" height="28" /> Currently Exploring
 
 <div align="center">
 
-![Architecture](https://img.shields.io/badge/Architecture-Patterns-0B1220?style=for-the-badge&logo=diagramsdotnet&logoColor=00E5FF)
-![Security](https://img.shields.io/badge/App%20Security-Hardening-0B1220?style=for-the-badge&logo=shieldsdotio&logoColor=00E5FF)
-![DevOps](https://img.shields.io/badge/DevOps-CI%20%2F%20Observability-0B1220?style=for-the-badge&logo=githubactions&logoColor=00E5FF)
-![AI](https://img.shields.io/badge/AI-Engineering%20Integration-0B1220?style=for-the-badge&logo=openai&logoColor=00E5FF)
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=800&color=67E8F9&center=true&vCenter=true&repeat=true&width=680&height=40&lines=Leveling+up+beyond+the+comfortable+stack..." alt="Exploring typing" />
+  </a>
 
 </div>
 
----
+<br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="28" height="28" /> GitHub Pulse
+Learning tracks I’m actively digging into — curiosity mode, not “expert” claims:
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="22" height="22" /> System Architecture
+Designing services that scale without turning into spaghetti.  
+Focus: boundaries, modularity, trade-offs.
+
+`patterns` `DDD-lite` `clean boundaries`
+
+</td>
+<td width="50%" valign="top">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png" width="22" height="22" /> App Security
+Going deeper than login forms.  
+Focus: threat modeling, hardening, safer defaults.
+
+`auth flows` `XSS/CSRF` `secrets hygiene`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="22" height="22" /> DevOps & Delivery
+Making deploys boring in the best way.  
+Focus: CI pipelines, observability, repeatable infra.
+
+`GitHub Actions` `Docker` `monitoring`
+
+</td>
+<td width="50%" valign="top">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="22" height="22" /> AI in Engineering
+Using AI as a force multiplier, not a crutch.  
+Focus: assistants in workflows + product features.
+
+`tooling` `RAG basics` `automation`
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=MOUAD010&show_icons=true&theme=radical&hide_border=true&bg_color=0B1220&title_color=00E5FF&icon_color=00E5FF&text_color=E2E8F0&ring_color=00E5FF&include_all_commits=true&count_private=true" height="170" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOUAD010&layout=compact&theme=radical&hide_border=true&bg_color=0B1220&title_color=00E5FF&text_color=E2E8F0" height="170" alt="Top languages" />
-
-  <br/>
-
-  <img src="https://streak-stats.demolab.com/?user=MOUAD010&theme=radical&hide_border=true&background=0B1220&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=E2E8F0&dates=94A3B8" alt="Streak" />
-
-  <br/>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MOUAD010&bg_color=0B1220&color=00E5FF&line=00E5FF&point=67E8F9&area=true&hide_border=true&area_color=0F2744" alt="Activity graph" width="100%" />
-
-  <br/><br/>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MOUAD010/MOUAD010/main/dist/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MOUAD010/MOUAD010/main/dist/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/MOUAD010/MOUAD010/main/dist/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
+![Architecture](https://img.shields.io/badge/%F0%9F%94%84_Architecture-in_progress-0B1220?style=for-the-badge&labelColor=0F2744&color=00E5FF)
+![Security](https://img.shields.io/badge/%F0%9F%94%92_Security-in_progress-0B1220?style=for-the-badge&labelColor=0F2744&color=00E5FF)
+![DevOps](https://img.shields.io/badge/%E2%9A%99%EF%B8%8F_DevOps-in_progress-0B1220?style=for-the-badge&labelColor=0F2744&color=00E5FF)
+![AI](https://img.shields.io/badge/%F0%9F%A4%96_AI-in_progress-0B1220?style=for-the-badge&labelColor=0F2744&color=00E5FF)
 
 </div>
 
