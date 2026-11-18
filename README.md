@@ -1,167 +1,220 @@
+<!-- =========================================================
+  Mouad Elattar — GitHub Profile
+  Aesthetic: midnight neon · motion-first · evidence-based
+========================================================= -->
+
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/105883792?v=4" width="110" height="110" alt="Mouad Elattar" style="border-radius:50%;" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1220,50:0F2744,100:00E5FF&text=MOUAD%20ELATTAR&fontAlignY=32&fontSize=46&fontColor=E2E8F0&desc=Software%20Engineer%20%7C%20Full-Stack%20%7C%20Systems&descAlignY=52&descSize=16&animation=fadeIn&section=header" width="100%" alt="Mouad Elattar banner" />
 
-# Mouad Elattar
+  <br/>
 
-**Software Engineer** · Full-Stack Systems · APIs · Data Platforms
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=900&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=80&lines=I+build+systems+that+stay+clear+under+complexity;APIs+%C2%B7+Data+platforms+%C2%B7+Full-stack+products;Typed+contracts.+Secure+boundaries.+Ship+it." alt="Typing animation" />
+  </a>
 
-*I design and ship software that stays clear under complexity — structured data, reliable interfaces, and systems people can operate.*
+  <br/><br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-MOUAD010-181717?style=flat-square&logo=github)](https://github.com/MOUAD010)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mouad%20Elattar-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mouad-el-attar)
-[![Email](https://img.shields.io/badge/Email-mouad.elattar.dev%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mouad.elattar.dev@gmail.com)
-[![Location](https://img.shields.io/badge/Based%20in-Morocco-1F2937?style=flat-square)](https://github.com/MOUAD010)
+  <img src="https://avatars.githubusercontent.com/u/105883792?v=4" width="120" height="120" alt="Avatar" style="border-radius:50%; border: 3px solid #00E5FF;" />
+
+  <br/><br/>
+
+  <a href="https://github.com/MOUAD010">
+    <img src="https://img.shields.io/badge/GitHub-MOUAD010-0B1220?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/mouad-el-attar">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mouad.elattar.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://img.shields.io/badge/Based%20in-Morocco-00E5FF?style=for-the-badge&logo=googlemaps&logoColor=0B1220" alt="Morocco" />
+  <img src="https://komarev.com/ghpvc/?username=MOUAD010&style=for-the-badge&color=00e5ff&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
 ---
 
-## About
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="28" height="28" /> Who I Am
 
-I am a software engineer focused on building **end-to-end applications** — from data models and APIs to the interfaces that consume them. My work centers on systems that ingest external data, persist it cleanly, expose it through well-defined boundaries, and remain operable in production.
+```bash
+$ whoami
+> Mouad Elattar — Software Engineer
 
-I approach problems by clarifying the domain first: what must be true in the data, which boundaries protect the system, and which parts should stay replaceable. That usually leads to typed contracts, explicit repositories, guarded admin surfaces, and infrastructure that can be rebuilt the same way every time.
+$ cat mission.txt
+> Design reliable full-stack systems:
+> clean data models → secure APIs → operable deployments.
 
-I am especially interested in:
+$ cat mindset.txt
+> Clarify the domain. Type the contracts.
+> Guard the edges. Keep the architecture replaceable.
+```
 
-- Backend services and API design
-- Full-stack product development
-- Database schema design and data synchronization
-- Application security and authentication
-- Containerized deployment and operational tooling
-- Thoughtful architecture over premature abstraction
+I build **end-to-end products** — ingestion pipelines, databases, authenticated admin surfaces, and polished UIs.  
+Curious by default. Practical under pressure. Obsessed with software that still makes sense six months later.
 
-I treat continuous learning as part of the job: deepen fundamentals, then apply them in production-shaped projects.
+<details>
+<summary><b>⚡ What I care about</b></summary>
+
+<br/>
+
+- Backend engineering & API design  
+- Full-stack application architecture  
+- Database design & live data sync  
+- Auth, validation, and secure defaults  
+- Dockerized infrastructure you can rebuild  
+- Clean code over clever code  
+
+</details>
 
 ---
 
-## Technical Skills
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" height="28" /> Tech Arsenal
 
-Skills below are organized by **evidence**. Primary stack items appear in my public project work. Additional technologies are self-reported from prior study and practice.
+<div align="center">
 
-### Evidenced in public work
+### Core stack *(shipped in public work)*
 
-| Area | Technologies |
-| --- | --- |
-| **Languages** | TypeScript, JavaScript, SQL |
-| **Frontend** | React, Next.js (App Router), Tailwind CSS |
-| **Backend & APIs** | Next.js Route Handlers, external API clients, Zod validation |
-| **Data** | PostgreSQL, Drizzle ORM, schema design, sync pipelines |
-| **Auth & Security** | Auth.js / NextAuth, bcrypt, session guards, HTML sanitization (DOMPurify) |
-| **i18n & Content** | next-intl (EN / FR / AR), TipTap rich text, SEO / sitemap tooling |
-| **DevOps** | Docker, Docker Compose, multi-stage Node builds |
-| **Tooling** | Git, ESLint, npm |
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,postgres,docker,tailwind,git&perline=9" alt="Core skills" />
+
+<br/><br/>
+
+| Layer | Tools |
+| :---: | :--- |
+| **Languages** | `TypeScript` `JavaScript` `SQL` |
+| **Frontend** | `React` `Next.js` `Tailwind` |
+| **Backend** | `Route Handlers` `Zod` `Auth.js` |
+| **Data** | `PostgreSQL` `Drizzle ORM` `Sync pipelines` |
+| **Security** | `bcrypt` `Session guards` `DOMPurify` |
+| **Ops** | `Docker` `Compose` `Multi-stage builds` |
+| **Product** | `next-intl` `TipTap` `SEO / GSC` |
+
+<br/>
+
+### Also in my toolkit *(self-reported)*
+
+![Java](https://img.shields.io/badge/Java-0B1220?style=for-the-badge&logo=openjdk&logoColor=00E5FF)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-0B1220?style=for-the-badge&logo=springboot&logoColor=6DB33F)
+![PHP](https://img.shields.io/badge/PHP-0B1220?style=for-the-badge&logo=php&logoColor=777BB4)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-0B1220?style=for-the-badge&logo=cloudflare&logoColor=F38020)
+
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28" height="28" /> Featured Build
+
+<div align="center">
+
+### 🏟️ [BotolaHub](https://github.com/MOUAD010/botolahub)
+**Football data platform + editorial CMS**
+
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/MOUAD010/botolahub)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://github.com/MOUAD010/botolahub)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/MOUAD010/botolahub)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/MOUAD010/botolahub)
+[![Auth.js](https://img.shields.io/badge/Auth.js-000000?style=flat-square&logo=auth0&logoColor=white)](https://github.com/MOUAD010/botolahub)
+
+</div>
+
+**The problem**  
+Fans and editors need live Moroccan league data + news in one place — not a spreadsheet hellscape.
+
+**What ships**
+- Multilingual public site (`EN` / `FR` / `AR`) — matches, teams, players, standings  
+- API-Football → PostgreSQL sync (catalog, live polls, squads, standings)  
+- Admin CMS: news, media, ads, analytics, sync control  
+- SEO: sitemap, OG images, JSON-LD, Search Console  
+- Auth-locked APIs + Docker production + live worker
+
+**Why it’s interesting**  
+Product UI + domain schema + external ingestion + secured admin + container ops — one coherent system.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,postgres,docker,tailwind,git" alt="Core technology icons" />
+  <a href="https://github.com/MOUAD010/botolahub">
+    <img src="https://img.shields.io/badge/Open%20Repository-00E5FF?style=for-the-badge&logo=github&logoColor=0B1220" alt="Open BotolaHub" />
+  </a>
 </p>
 
-### Also experienced with *(self-reported)*
+---
 
-| Area | Technologies |
-| --- | --- |
-| **Languages & Backend** | Java, Spring Boot, PHP |
-| **Infrastructure** | Cloudflare |
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="28" height="28" /> How I Engineer
 
-> These are listed separately because they are not yet demonstrated in my public repositories. Happy to discuss them in conversation or via private work samples.
+```text
+┌──────────────────┬────────────────────────────────────────────┐
+│ Clarity          │ Readable structure > clever tricks         │
+│ Boundaries       │ UI ≠ domain ≠ sync ≠ auth                  │
+│ Typed edges      │ Zod + schema constraints before trust      │
+│ Secure defaults  │ Hash secrets · guard routes · sanitize HTML│
+│ Operability      │ Docker · env config · observable jobs      │
+│ Longevity        │ Extend without rewrite                     │
+└──────────────────┴────────────────────────────────────────────┘
+```
 
 ---
 
-## Featured Project
-
-### [BotolaHub](https://github.com/MOUAD010/botolahub) — Football data platform & editorial CMS
-
-**Problem.** Moroccan league fans and editors need a single place for fixtures, standings, teams, players, and news — kept current from live data sources, not maintained by hand.
-
-**What it does.**
-
-- Public multilingual site (English, French, Arabic) for competitions, matches, teams, and player profiles
-- Automated sync from API-Football into PostgreSQL (catalog, fixtures, standings, squads, live updates)
-- Admin CMS for news, media, ads, analytics, and sync control
-- SEO surfaces: sitemap generation, Open Graph images, JSON-LD, Search Console integration
-- Search, match ticker, standings, lineups, and comparison stats
-
-**Technical approach.**
-
-- **Next.js + TypeScript** full-stack application with App Router route groups for site and admin
-- **PostgreSQL + Drizzle ORM** with a deliberate schema for competitions, fixtures, players, news, and sync runs
-- **Repository layer** separating domain reads from persistence
-- **Auth.js credentials flow** with bcrypt-hashed admin accounts, JWT sessions, and `requireAdmin` API guards
-- **Background live worker** via Docker Compose calling an authenticated internal sync endpoint
-- **Input validation** with Zod; **XSS hardening** for rich HTML via DOMPurify
-- **Multi-stage Docker** production image (Node 22 Alpine, non-root user, standalone Next output)
-
-**Stack.** TypeScript · Next.js · React · PostgreSQL · Drizzle · Auth.js · Zod · next-intl · TipTap · Tailwind · Docker
-
-**Why it matters.** It is not a tutorial app. It combines product UI, domain modeling, external API ingestion, auth-bound admin APIs, and containerized operations in one codebase.
-
-**Repository:** [github.com/MOUAD010/botolahub](https://github.com/MOUAD010/botolahub)
-
----
-
-## Engineering Principles
-
-How I prefer to work when building software:
-
-| Principle | In practice |
-| --- | --- |
-| **Clarity over cleverness** | Prefer readable structure and explicit names to dense abstractions |
-| **Separation of concerns** | UI, domain access, sync jobs, and auth boundaries stay distinct |
-| **Typed contracts** | Validate at the edges (Zod, schema constraints) before trusting input |
-| **Secure by default** | Hash secrets, guard privileged routes, sanitize untrusted HTML |
-| **Operability** | Dockerized builds, env-driven config, sync jobs that can be observed and retried |
-| **DRY / KISS** | Share what is stable; avoid premature frameworks around one-off logic |
-| **Maintainability** | Schema, repositories, and admin workflows should be extendable without rewrites |
-| **Documentation as interface** | Env examples, scripts, and structure that explain how the system runs |
-
----
-
-## Currently Exploring
-
-Areas I am actively deepening — not claims of production expertise yet:
-
-- **Software architecture** patterns for growing full-stack systems
-- **Application security** beyond authentication basics (threat modeling, hardening checklists)
-- **DevOps practices** around observability, CI, and safer release workflows
-- **AI integration** in engineering workflows and product features (assistive tooling, not magic)
-
----
-
-## GitHub Activity
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" width="28" height="28" /> Currently Exploring
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MOUAD010&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" alt="MOUAD010 GitHub stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOUAD010&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top languages" height="165" />
-
-<br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MOUAD010&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub streak" />
-
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MOUAD010&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&hide_border=true" alt="Contribution activity graph" />
+![Architecture](https://img.shields.io/badge/Architecture-Patterns-0B1220?style=for-the-badge&logo=diagramsdotnet&logoColor=00E5FF)
+![Security](https://img.shields.io/badge/App%20Security-Hardening-0B1220?style=for-the-badge&logo=shieldsdotio&logoColor=00E5FF)
+![DevOps](https://img.shields.io/badge/DevOps-CI%20%2F%20Observability-0B1220?style=for-the-badge&logo=githubactions&logoColor=00E5FF)
+![AI](https://img.shields.io/badge/AI-Engineering%20Integration-0B1220?style=for-the-badge&logo=openai&logoColor=00E5FF)
 
 </div>
 
 ---
 
-## Contact
-
-I am open to software engineering conversations, collaboration, and opportunities where reliable full-stack systems matter.
-
-| | |
-| --- | --- |
-| **Email** | [mouad.elattar.dev@gmail.com](mailto:mouad.elattar.dev@gmail.com) |
-| **GitHub** | [github.com/MOUAD010](https://github.com/MOUAD010) |
-| **LinkedIn** | [linkedin.com/in/mouad-el-attar](https://www.linkedin.com/in/mouad-el-attar) |
-| **Featured work** | [BotolaHub](https://github.com/MOUAD010/botolahub) |
-
----
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="28" height="28" /> GitHub Pulse
 
 <div align="center">
 
-*Built with intention — clear systems, honest skills, measurable work.*
+  <img src="https://github-readme-stats.vercel.app/api?username=MOUAD010&show_icons=true&theme=radical&hide_border=true&bg_color=0B1220&title_color=00E5FF&icon_color=00E5FF&text_color=E2E8F0&ring_color=00E5FF&include_all_commits=true&count_private=true" height="170" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOUAD010&layout=compact&theme=radical&hide_border=true&bg_color=0B1220&title_color=00E5FF&text_color=E2E8F0" height="170" alt="Top languages" />
+
+  <br/>
+
+  <img src="https://streak-stats.demolab.com/?user=MOUAD010&theme=radical&hide_border=true&background=0B1220&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=E2E8F0&dates=94A3B8" alt="Streak" />
+
+  <br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MOUAD010&bg_color=0B1220&color=00E5FF&line=00E5FF&point=67E8F9&area=true&hide_border=true&area_color=0F2744" alt="Activity graph" width="100%" />
+
+  <br/><br/>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MOUAD010/MOUAD010/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MOUAD010/MOUAD010/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/MOUAD010/MOUAD010/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
 
 </div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" width="28" height="28" /> Let’s Connect
+
+<div align="center">
+
+  Open to engineering conversations, collaboration, and roles where **reliable systems** matter.
+
+  <br/><br/>
+
+  <a href="mailto:mouad.elattar.dev@gmail.com">
+    <img src="https://img.shields.io/badge/mouad.elattar.dev%40gmail.com-0B1220?style=for-the-badge&logo=gmail&logoColor=00E5FF" alt="Email" />
+  </a>
+  <a href="https://github.com/MOUAD010">
+    <img src="https://img.shields.io/badge/github.com%2FMOUAD010-0B1220?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/mouad-el-attar">
+    <img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn" />
+  </a>
+
+  <br/><br/>
+
+  <img src="https://quote-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Ship%20systems%20that%20stay%20clear%20under%20complexity.&author=Mouad%20Elattar" alt="Quote" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00E5FF,50:0F2744,100:0B1220&section=footer" width="100%" alt="footer wave" />
