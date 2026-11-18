@@ -106,65 +106,31 @@ Curious by default. Practical under pressure. Obsessed with software that still 
 
 <div align="center">
 
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,100:0F2744&height=60&text=NEXT%20LEVEL%20UNLOCKS&fontSize=22&fontColor=00E5FF&fontAlignY=50&descAlignY=70&animation=twinkling" width="100%" alt="Exploring banner" />
+
+  <br/>
+
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=800&color=67E8F9&center=true&vCenter=true&repeat=true&width=680&height=40&lines=Leveling+up+beyond+the+comfortable+stack..." alt="Exploring typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=700&color=00E5FF&center=true&vCenter=true&repeat=true&width=720&height=100&lines=%F0%9F%94%A7+System+Architecture;+%F0%9F%94%92+Application+Security;%E2%9A%99%EF%B8%8F+DevOps+%26+Delivery;%F0%9F%A4%96+AI+in+Engineering" alt="Exploring topics" />
   </a>
 
-</div>
+  <br/>
 
-<br/>
+  <img src="https://img.shields.io/badge/Architecture-███▒▒▒▒▒▒▒-00E5FF?style=for-the-badge&labelColor=0B1220" alt="Architecture progress" />
+  <img src="https://img.shields.io/badge/Security-███▒▒▒▒▒▒▒-67E8F9?style=for-the-badge&labelColor=0B1220" alt="Security progress" />
+  <img src="https://img.shields.io/badge/DevOps-████▒▒▒▒▒▒-22D3EE?style=for-the-badge&labelColor=0B1220" alt="DevOps progress" />
+  <img src="https://img.shields.io/badge/AI-██▒▒▒▒▒▒▒▒-A5F3FC?style=for-the-badge&labelColor=0B1220" alt="AI progress" />
 
-Learning tracks I’m actively digging into — curiosity mode, not “expert” claims:
+  <br/><br/>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+```diff
++ Building systems with cleaner boundaries
++ Hardening apps beyond basic auth
++ Shipping with CI, containers, observability
++ Using AI as a real engineering multiplier
+```
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="22" height="22" /> System Architecture
-Designing services that scale without turning into spaghetti.  
-Focus: boundaries, modularity, trade-offs.
-
-`patterns` `DDD-lite` `clean boundaries`
-
-</td>
-<td width="50%" valign="top">
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png" width="22" height="22" /> App Security
-Going deeper than login forms.  
-Focus: threat modeling, hardening, safer defaults.
-
-`auth flows` `XSS/CSRF` `secrets hygiene`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="22" height="22" /> DevOps & Delivery
-Making deploys boring in the best way.  
-Focus: CI pipelines, observability, repeatable infra.
-
-`GitHub Actions` `Docker` `monitoring`
-
-</td>
-<td width="50%" valign="top">
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="22" height="22" /> AI in Engineering
-Using AI as a force multiplier, not a crutch.  
-Focus: assistants in workflows + product features.
-
-`tooling` `RAG basics` `automation`
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-![Architecture](https://img.shields.io/badge/%F0%9F%94%84_Architecture-in_progress-0B1220?style=for-the-badge&labelColor=0F2744&color=00E5FF)
-![Security](https://img.shields.io/badge/%F0%9F%94%92_Security-in_progress-0B1220?style=for-the-badge&labelColor=0F2744&color=00E5FF)
-![DevOps](https://img.shields.io/badge/%E2%9A%99%EF%B8%8F_DevOps-in_progress-0B1220?style=for-the-badge&labelColor=0F2744&color=00E5FF)
-![AI](https://img.shields.io/badge/%F0%9F%A4%96_AI-in_progress-0B1220?style=for-the-badge&labelColor=0F2744&color=00E5FF)
+  <sub>curiosity tracks · not production mastery claims</sub>
 
 </div>
 
