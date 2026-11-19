@@ -33,13 +33,7 @@ const mouad = {
 
 ### 📊 My day, honestly
 
-```text
-Drinking coffee        ████████████████████  100%
-Debugging              ███████████████░░░░░   75%
-Googling the error     ████████████░░░░░░░░   60%
-Naming variables       ████████░░░░░░░░░░░░   40%
-Actually writing code  ████░░░░░░░░░░░░░░░░   20%
-```
+<img src="assets/my-day.svg" width="100%" alt="Drinking coffee 100%, Debugging 75%, Googling the error 60%, Naming variables 40%, Actually writing code 20%" />
 
 <div align="center">
 
